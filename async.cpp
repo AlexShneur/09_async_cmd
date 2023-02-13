@@ -3,6 +3,8 @@
 #include "BulkPrinters.h"
 #include "TestCommandParser.h"
 
+#include <algorithm>
+
 namespace async
 {
     class BulkHandler
